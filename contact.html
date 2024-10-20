@@ -19,6 +19,28 @@
     </nav>
     <section>
         <h2>Contact Me</h2>
+        <form>
+            <label for="name">
+                <input type="text" id="name">
+            </label>
+            <label for="email">
+                <input type="text" id="email">
+            </label>
+            <label for="reason">
+                Select a Reason for Contact
+            </label>
+            <select name="contact_reason" id="reason">
+                <option value="hi">Just Saying Hi</option>
+                <option value="contractor">Looking for a Contractor</option>
+                <option value="interview">Interested in an Interview</option>
+            </select>
+            <label for="open_comment">Open Comment:
+                <textarea name="comment" id="open_comment">
+                    Feel free to add additional comments here.
+                </textarea>
+            </label>
+            <button>Submit</button>
+        </form>
     </section>
 </body>
 </html>
