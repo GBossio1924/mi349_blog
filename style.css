@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+  }
+  
+  #nav_div div {
+      margin: 0;
+      background: #505050;
+      width: 100%;
+  }
+  #nav_div nav {
+      background: #505050;
+      color: #efefef;
+      position: fixed;
+      width: 100%;
+      margin: 0;
+  }
+  
+  #nav_div ul {
+    list-style: none;
+    padding-left: 85%;
+  }
+  
+  #nav_div li {
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+  }
+  
+  #nav_div a {
+    color: #efefef;
+    text-decoration: none;
+  }
