@@ -73,7 +73,7 @@ div.date-and-author {
   background: #efefef;
   border-radius: 5px;
   color: #252525;
-  width: 7%;
+  flex: 1;
 }
 
 p.post-text {
@@ -82,6 +82,7 @@ p.post-text {
   background: #efefef;
   border-radius: 5px;
   color: #252525;
+  flex: 10;
 }
 
 hr.content-divider {
@@ -90,4 +91,8 @@ hr.content-divider {
   background: #505050;
   border: none;
   border-radius: 5px;
+}
+
+div.post-container {
+  display: flex;
 }
