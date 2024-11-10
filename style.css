@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: Arial, Helvetica, Sans-Serif;
 }
 
 header {
@@ -39,11 +40,12 @@ margin: 0;
     color: #efefef;
     width: 100%;
     margin: 0;
+    position: sticky;
 }
 
 #nav_div ul {
   list-style: none;
-  padding-left: 90%;
+  padding-left: 87%;
   margin: 0;
 }
 
