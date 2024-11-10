@@ -58,3 +58,36 @@ background: #252525;
   color: #efefef;
   text-decoration: none;
 }
+
+h2.blog-header {
+  margin: 20px;
+  padding: 10px;
+  background: #efefef;
+  border-radius: 5px;
+  color: #252525;
+}
+
+div.date-and-author {
+  margin: 20px;
+  padding: 10px;
+  background: #efefef;
+  border-radius: 5px;
+  color: #252525;
+  width: 7%;
+}
+
+p.post-text {
+  margin: 20px;
+  padding: 10px;
+  background: #efefef;
+  border-radius: 5px;
+  color: #252525;
+}
+
+hr.content-divider {
+  margin: 0 20px 0 20px;
+  height: 10px;
+  background: #505050;
+  border: none;
+  border-radius: 5px;
+}
