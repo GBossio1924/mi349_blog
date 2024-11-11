@@ -183,24 +183,16 @@ div.list {
   padding: 10px;
   border-radius: 5px;
   flex: 2;
-}
-
-div.dog-picture {
-  background: #efefef;
-  color: #252525;
-  margin: 20px;
-  padding: 10px;
-  border-radius: 5px;
-  flex: 5;
-  text-align: center;
+  height: 290px;
 }
 
 img.dog {
   border-radius: 5px;
-  width: 50%;
-  height: 75%;
+  width: 25%;
+  height: 25%;
   flex: 5;
   text-align: center;
+  margin: 20px;
 }
 
 div.about-text {
