@@ -210,3 +210,15 @@ div.about-text {
 div.about-container {
   display: flex;
 }
+
+div.form-row {
+  margin: 20px;
+}
+
+textarea {
+  border: solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  resize: vertical;
+  width: 500px;
+}
