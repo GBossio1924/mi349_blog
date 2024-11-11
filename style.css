@@ -65,6 +65,7 @@ h2.blog-header {
   background: #efefef;
   border-radius: 5px;
   color: #252525;
+  border: solid;
 }
 
 div.date-and-author {
@@ -105,7 +106,6 @@ h3.table-title {
   border-radius: 5px;
   width: 22%;
   border-style: solid;
-  border-color: #505050;
 }
 
 div.table-image-container {
