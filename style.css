@@ -117,7 +117,7 @@ table {
   background: #505050;
   border-radius: 5px;
   color: #252525;
-  flex: 1;
+  flex: 5;
 }
 
 th {
@@ -132,5 +132,9 @@ td {
 }
 
 img.computer-image {
-  flex: 1;
+  flex: 5;
+  border-radius: 5px;
+  margin: 20px;
+  width: 50%;
+  height: 50%;
 }
