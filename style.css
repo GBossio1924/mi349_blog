@@ -222,3 +222,7 @@ textarea {
   resize: vertical;
   width: 500px;
 }
+
+div[attribute] {
+  border: dotted;
+}
