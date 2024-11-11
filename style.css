@@ -150,3 +150,28 @@ img.drawing-images {
   border-radius: 5px;
   margin: 20px;
 }
+
+form {
+  margin: 20px;
+  margin-left: 30px;
+  color: #252525;
+}
+
+input[type=text] {
+  border: solid;
+  color: #252525;
+  border-radius: 5px;
+}
+
+button {
+  color: #efefef;
+  background: #505050;
+  border-radius: 5px;
+  margin-left: 10px;
+  border: none;
+  padding: 10px;
+}
+
+button:hover {
+  background: #252525;
+}
