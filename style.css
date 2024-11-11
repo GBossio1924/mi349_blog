@@ -175,3 +175,35 @@ button {
 button:hover {
   background: #252525;
 }
+
+div.list {
+  background: #efefef;
+  color: #252525;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  flex: 2;
+}
+
+div.dog-picture {
+  background: #efefef;
+  color: #252525;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  flex: 5;
+}
+
+img.dog {
+  border-radius: 5px;
+  width: 25%;
+  height: 25%;
+}
+
+div.about-text {
+  flex: 2;
+}
+
+div.about-container {
+  display: flex;
+}
