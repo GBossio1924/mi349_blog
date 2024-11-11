@@ -192,12 +192,15 @@ div.dog-picture {
   padding: 10px;
   border-radius: 5px;
   flex: 5;
+  text-align: center;
 }
 
 img.dog {
   border-radius: 5px;
-  width: 25%;
-  height: 25%;
+  width: 50%;
+  height: 75%;
+  flex: 5;
+  text-align: center;
 }
 
 div.about-text {
