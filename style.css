@@ -96,3 +96,32 @@ hr.content-divider {
 div.post-container {
   display: flex;
 }
+
+h3.table-title {
+  margin: 20px;
+  padding: 10px;
+  background: #efefef;
+  color: #252525;
+  border-radius: 5px;
+  width: 22%;
+  border-style: solid;
+  border-color: #505050;
+}
+
+table {
+  margin: 20px;
+  background: #505050;
+  border-radius: 5px;
+  color: #252525;
+}
+
+th {
+  padding: 10px;
+  color: #efefef
+}
+
+td {
+  padding: 5px;
+  background: #dddddd;
+  color: #252525;
+}
