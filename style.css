@@ -54,7 +54,7 @@ div.sticky {
 background: #252525;
 }
 
-#nav_div a {
+#nav_div a[target] {
   color: #efefef;
   text-decoration: none;
 }
